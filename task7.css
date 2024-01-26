@@ -1,0 +1,19 @@
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+thead{
+    background-color: rgb(25, 168, 61);
+    
+}
+
+tr td:first-child{
+    background-color: green;
+}
+tbody :nth-child(4) :nth-child(4){
+background-color: red;
+}
+tbody tr:nth-child(even){
+    background-color: #ddd;
+}

@@ -1,0 +1,84 @@
+*{
+ position: relative;
+ background-size: cover;
+}
+nav{
+    background-color:white;
+    height: 10vh;
+    width:100%;
+text-align: end;
+background-size: cover;
+}
+a{
+    margin-right: 3%;
+    color: red;
+   top:20px;
+   font-size: 20px;
+   background-size: cover;
+}
+#flex{
+background-image: url(./flex3.jpg);
+height: 50vh;
+width:100%;
+background-size: cover;
+}
+#logo{
+margin-right: 50px;
+top: 10px;
+background-image: url(./Santa\ claus\ drinking\ tea\ or\ coffee\ isolated\ vector\ image\ on\ VectorStock.jpeg);
+width: 20vw;
+height: 30vh;
+border-radius: 50%;
+left:20px;
+background-size: cover;
+}
+.text{
+    color: white;
+   left:20px;
+    font-style: italic;
+    font-size: 30px;
+    top:190px;  
+    background-size: cover;
+}
+
+h1{
+   background-color: antiquewhite; 
+    top:95px;
+    background-size: cover;
+}
+p{
+    left:20px;
+    background-size: cover;
+}
+
+.WB{
+ top: 10px;
+ background-size: cover;
+}
+
+input{
+    width: 30vw;
+    height: 10vh;
+    border-radius: 20px;
+    background-size: cover;
+}
+button{
+    width: 10vw;
+    height: 5vh;
+    border-radius: 10px;
+    background-color: aquamarine;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

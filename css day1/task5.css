@@ -1,0 +1,12 @@
+body{
+background-image: url(../Santa\ claus\ drinking\ tea\ or\ coffee\ isolated\ vector\ image\ on\ VectorStock.jpeg);
+background-repeat: no-repeat;
+}
+p{
+
+font-size: 20px;
+text-shadow: 2px 2px yellow ;
+margin-left: 50%;
+display: flex;
+color:blueviolet;height: 200px;width: 50%;
+}

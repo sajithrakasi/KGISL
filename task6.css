@@ -1,0 +1,92 @@
+body{
+    background-color: gray;
+}
+#main img{
+    display: block;
+    width: 93%;
+    height: 80%;
+  margin-left: 4%;
+padding:20%,20%;
+
+}
+a{
+    color: white;
+position: relative;
+margin: 40px;
+text-decoration: none;
+top:30px;
+}
+#flex{
+ left: 60%;
+ position: absolute;
+}
+#head{
+    color: white;
+    position: absolute;
+   top: 50%;
+   margin-left: 35%;
+}
+#head2{
+    color: white;
+    position: absolute;
+   top: 58%;
+   margin-left: 35%;
+   
+}
+#free-temp{
+    
+    display: inline;
+}
+p{
+    font-size:xx-large;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

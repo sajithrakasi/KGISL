@@ -1,0 +1,39 @@
+.ball{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    animation-name: ball;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    transform: translatey(-100px);
+    animation-play-state: running;
+}
+.box{
+    height: 30px;
+    width: 150px;
+    background-color: orange;
+    transform: translate(-20px,200px);
+}
+@keyframes ball{
+    20%{
+        background-color: rgb(149, 201, 30);
+        transform: translatey(32vh);
+    }
+    40%{
+        background-color: orangered;
+        transform: translate(80px,150px);
+    }
+    60%{
+        background-color: rgb(255, 0, 149);
+        transform: translate(150px,250px);
+    }
+    80%{
+        background-color: rgb(24, 19, 17);
+        transform: translate(180px,300px);
+    }
+    100%{
+        background-color: rgb(33, 133, 163);
+        transform: translate(180px,100vh);
+    }
+}

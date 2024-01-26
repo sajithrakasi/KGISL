@@ -1,0 +1,10 @@
+p{
+    color: rgb(35, 48, 168);
+    /* overflow: scroll; */height: 400px;width: 50%;
+    
+}
+div{
+    color: #2330a8;height: 200px;width: 50%;
+    overflow: scroll;
+    
+}
